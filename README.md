@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/matthewp/answer-prompt.svg?branch=master)](https://travis-ci.org/matthewp/answer-prompt)
+[![npm version](https://badge.fury.io/js/answer-prompt.svg)](http://badge.fury.io/js/answer-prompt)
 
 # answer-prompt
 
