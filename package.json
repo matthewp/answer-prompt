@@ -1,6 +1,6 @@
 {
   "name": "answer-prompt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Answer prompts written to stderr or stdout.",
   "main": "answer-prompt.js",
   "scripts": {
